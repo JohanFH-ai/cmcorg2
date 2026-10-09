@@ -1,0 +1,12 @@
+# 301s from the 2010 site (chiangmaicycling.org/*.html)
+/index.html / 301
+/about.html /about/ 301
+/faq.html /faq/ 301
+/links.html /resources/ 301
+/contact.html /contact/ 301
+/cycling.html /cycling-routes/ 301
+/bicycleshops.html /bike-shops/ 301
+/touroperators.html /cycling-tours/ 301
+/bicyclerental.html /bike-rental/ 301
+/selfguidedtours.html /self-guided-tours/ 301
+/disclaimer.html /disclaimer/ 301
